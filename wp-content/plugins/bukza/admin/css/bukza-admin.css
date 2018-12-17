@@ -1,0 +1,15 @@
+.bukza__iframe{
+    width:100%;
+    min-height:100vh;
+    border:none;
+    margin-left: -20px;
+    padding-right: 20px;
+    background-color:#23282d;
+}
+
+@media screen and (max-width: 782px){
+    .bukza__iframe{
+        margin-left: -10px;
+        padding-right: 10px;
+    }
+}
